@@ -3,13 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g>
-	<g>
+<g  fill="#1b74ff" fill-opacity="1">
+	<g  fill="#1b74ff" fill-opacity="1">
 		<path d="M256,64C150,64,64,150,64,256c0,106.1,86,192,192,192s192-85.9,192-192C448,150,362,64,256,64z M256,415.5
 			c-88.1,0-159.5-71.4-159.5-159.5c0-88.1,71.4-159.5,159.5-159.5c88.1,0,159.5,71.4,159.5,159.5C415.5,344.1,344.1,415.5,256,415.5
 			z"/>
 	</g>
-	<g>
+	<g  fill="#1b74ff" fill-opacity="1">
 		<path d="M306.3,246.7c23.4-2.2,50.9-2.9,77.2-2.4c-2.3-25.4-12-48.7-27-67.6c-16.5,14.9-38,28.1-63.3,39
 			C297.8,225.7,302.1,236.1,306.3,246.7z"/>
 		<path d="M335.4,155.6C313.6,138.3,286,128,256,128c-5.1,0-10.2,0.3-15.2,0.9c13.8,17.7,26.7,37.6,38.6,59.5
