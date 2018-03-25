@@ -5,10 +5,10 @@
 	 width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 <![CDATA[
-	.st0{fill:#010101;}
+	.st0{fill:#1b74ff;}
 ]]>
 </style>
-<g>
+<g  fill="#1b74ff" fill-opacity="1">
 	<rect x="247" y="96" class="st0" width="18" height="56"/>
 	<rect x="247" y="356" class="st0" width="18" height="60"/>
 	<rect x="360" y="247" class="st0" width="56" height="18"/>

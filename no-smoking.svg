@@ -5,10 +5,10 @@
 	 width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 <![CDATA[
-	.st0{fill:#010101;}
+	.st0{fill:#1b74ff;}
 ]]>
 </style>
-<g>
+<g  fill="#1b74ff" fill-opacity="1">
 	<rect x="360" y="256" class="st0" width="16" height="48"/>
 	<polygon class="st0" points="112,304 249.6,304 201.6,256 112,256 	"/>
 	<path class="st0" d="M364.5,60.1c-0.4-0.2-0.7-0.4-1-0.6c-10.9-6-22.5-10.7-34.4-14.8c-1.8-0.6-3.6-1.2-5.4-1.8
